@@ -1,0 +1,6 @@
+framework module Pods_DemoADBanner {
+  umbrella header "Pods-DemoADBanner-umbrella.h"
+
+  export *
+  module * { export * }
+}
